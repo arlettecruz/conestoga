@@ -1,5 +1,5 @@
-# conestoga
-# Assignments for Intermediate Python class
+# Conestoga
+## Assignments for Intermediate Python class
 
 Conestoga College Projects
 
