@@ -1,6 +1,4 @@
 # Conestoga
 ## Assignments for Intermediate Python class
 
-Conestoga College Projects
-
-This is my first sample project in github
+This is a sample repository in github to submit Assignment 2, including a working Python program with an gitignore file.
